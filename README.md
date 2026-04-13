@@ -2,10 +2,15 @@
 
 This project is built using Arduino to monitor patient health conditions.
 
-## Features
-- Real-time health monitoring
-- Sensor-based data collection
-- Easy to use system
+## Components Used
+- Arduino Board
+- Heart Rate Sensor
+- Temperature Sensor
+
+## Future Improvements
+- Mobile app integration
+- Cloud data storage
+- Alerts for abnormal health conditions
 
 ## Technologies Used
 - Arduino (.ino)
